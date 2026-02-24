@@ -1,1 +1,5 @@
-Permission denied
+{
+  "name": "Novarge SMMM AI Asistan",
+  "description": "Mali müşavirler için yapay zeka destekli mevzuat takibi, fiş ve gelir tablosu aktarımı, OCR ve muavin defter analizi platformu.",
+  "requestFramePermissions": []
+}
